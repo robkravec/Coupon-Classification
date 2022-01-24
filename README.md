@@ -11,6 +11,9 @@ This repository is meant to showcase skills in (1) exploratory data analysis,
 (2) algorithm selection and fitting, (3) hyperparamter tuning, (4) model 
 interpretation, and (5) general critical thinking and problem-solving.
 
+Please see `Report/Portfolio_Report.pdf` or `Poster/Portfolio_Poster.pdf` for
+more detail on this project.
+
 ## Abstract
 
 In this project, several machine learning algorithms were applied to a binary
