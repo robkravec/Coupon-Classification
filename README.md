@@ -1,8 +1,15 @@
-# Portfolio Project
+# Predicting Coupon Acceptance Using Machine Learning Algorithms
 
-## Predicting Coupon Acceptance Using Machine Learning Algorithms
+## Context / ackowledgements
 
-### Rob Kravec
+A version of this project was originally completed as part of Professor Cynthia 
+Rudin's "Theory and Algorithms for Machine Learning" course at Duke in Fall 2021.
+The contents were then written up more formally (and a poster created) as a final
+"Portfolio" project for Duke's M.S. in Statistical Science.
+
+This repository is meant to showcase skills in (1) exploratory data analysis,
+(2) algorithm selection and fitting, (3) hyperparamter tuning, (4) model 
+interpretation, and (5) general critical thinking and problem-solving.
 
 ## Abstract
 
@@ -21,3 +28,12 @@ variable importance. Weighted averages of predicted
 probabilities between tuned models were also considered to increase predictive
 accuracy. An ensemble formed by a simple average of XGBoost and SVM predictions
 achieved the best observed test accuracy of 77.92%.
+
+## Selected images
+
+![](Images/SVM_cv.png)
+
+![](Images/AdaBoost_calibration.png)
+
+![](Images/XGB_top5.png)
+
