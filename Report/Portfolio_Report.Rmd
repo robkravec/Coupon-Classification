@@ -308,7 +308,7 @@ df %>%
   width(j=~Hyperparameters, width = 3)
 ```
 
-![](..//Images/SVM_cv.png)
+![](../Images/SVM_cv.png)
 
 ![](../Images/RF_cv.png)
 
