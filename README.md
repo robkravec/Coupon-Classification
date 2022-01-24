@@ -31,6 +31,10 @@ achieved the best observed test accuracy of 77.92%.
 
 ## Selected images
 
+**Hyperparameter tuning for Support Vector Machine (SVM) model**
+
 ![](Images/SVM_cv_large.png)
+
+**Prediction calbiration for AdaBoost model**
 
 ![](Images/AdaBoost_calibration_large.png)
