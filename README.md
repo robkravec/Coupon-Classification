@@ -31,9 +31,9 @@ achieved the best observed test accuracy of 77.92%.
 
 ## Selected images
 
-![](Images/SVM_cv.png)
+![](Images/SVM_cv_large.png)
 
-![](Images/AdaBoost_calibration.png)
+![](Images/AdaBoost_calibration_large.png)
 
-![](Images/XGB_top5.png)
+![](Images/Ada_accuracy_vs_depth_website.png)
 
